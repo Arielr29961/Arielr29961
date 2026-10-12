@@ -37,17 +37,33 @@ I turn messy business data into metrics, models, and decisions that leadership a
 <img src="https://img.shields.io/badge/VBA-867DB1?style=flat-square&logo=microsoft&logoColor=white"/>
 
 **Languages & ML**<br/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
-**Web & Tools**<br/>
+**Web projects (built with Claude Code)**<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+**Tools**<br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+
+## Where my hands-on coding time goes
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-70%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL 70%"/>
+<img src="https://img.shields.io/badge/Python-25%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 25%"/>
+<img src="https://img.shields.io/badge/JS_/_HTML_/_CSS_(via_Claude_Code)-~5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS, HTML, CSS about 5%"/>
+</p>
+
+<p align="center"><i>My own estimate. Most of my work is SQL and Python; my web projects were built with Claude Code, so GitHub's auto-generated language stats (which count repo code only) overstate TypeScript and don't reflect my SQL work.</i></p>
 
 ## Featured projects
 
@@ -57,11 +73,12 @@ I turn messy business data into metrics, models, and decisions that leadership a
 | [**organizational-memory**](https://github.com/Arielr29961/organizational-memory) | Proof-of-concept that organizes company knowledge by topic and extracts insights across meetings, emails, presentations and documents | JavaScript · NLP · Retrieval |
 | [**Personal-Financial-Lab**](https://github.com/Arielr29961/Personal-Financial-Lab) | Personal finance analytics lab | TypeScript |
 
+<sub>The web front-ends of these projects (JavaScript/TypeScript, HTML, CSS) were built with Claude Code.</sub>
+
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arielr29961&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arielr29961&layout=compact&hide_border=true" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arielr29961&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
 </p>
 
 ---
